@@ -124,7 +124,7 @@ seaborn         0.12
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/customer-segmentation.git
+git clone https://github.com/Mustafa-Mirghani/customer-segmentation.git
 
 # 2. Navigate to project directory
 cd customer-segmentation
@@ -140,7 +140,7 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 
 > **Note:** Dataset available on [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci). Download and place in `data/` folder before running.
 
----
+--- 
 
 ## 📈 Future Improvements
 
@@ -154,6 +154,6 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 ## 👤 Author
 
 **Mustafa Ahmed**
-🐙 [GitHub](https://github.com/yourusername)
+🐙 [GitHub](https://github.com/Mustafa-Mirghani)
 
 ---
